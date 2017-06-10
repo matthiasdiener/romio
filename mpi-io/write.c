@@ -1,6 +1,6 @@
-/* -*- mode: c; c-basic-offset:4 ; -*- */
+/* -*- Mode: C; c-basic-offset:4 ; -*- */
 /* 
- *   $id: write.c,v 1.8 2002/10/24 15:54:44 gropp Exp $    
+ *   $Id: write.c,v 1.8 2002/10/24 15:54:44 gropp Exp $    
  *
  *   Copyright (C) 1997 University of Chicago. 
  *   See COPYRIGHT notice in top-level directory.

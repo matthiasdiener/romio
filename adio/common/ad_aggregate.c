@@ -1,6 +1,6 @@
 /* -*- Mode: C; c-basic-offset:4 ; -*- */
 /* 
- *   $Id$    
+ *   $Id: ad_aggregate.c,v 1.5 2002/10/24 17:01:11 gropp Exp $    
  *
  *   Copyright (C) 1997-2001 University of Chicago. 
  *   See COPYRIGHT notice in top-level directory.
