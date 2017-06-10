@@ -1,6 +1,6 @@
 /* -*- Mode: C; c-basic-offset:4 ; -*- */
 /* 
- *   $Id$    
+ *   $Id: mpioimpl.h,v 1.6 2002/10/24 17:01:18 gropp Exp $    
  *
  *   Copyright (C) 1997 University of Chicago. 
  *   See COPYRIGHT notice in top-level directory.
@@ -13,8 +13,8 @@
 #ifndef MPIOIMPL_INCLUDE
 #define MPIOIMPL_INCLUDE
 
-#include "mpio.h"
 #include "adio.h"
+#include "mpio.h"
 
 /* info is a linked list of these structures */
 struct MPIR_Info {
